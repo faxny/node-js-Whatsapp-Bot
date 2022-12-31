@@ -22,7 +22,7 @@ global.APIKeys = { // APIKey Here
 	'https://api.zeks.xyz': 'apivinz',
 	'https://pencarikode.xyz': 'pais',
 	'https://leyscoders-api.herokuapp.com': 'dappakntlll',
-	'https://api.lolhuman.xyz': 'apikeylu'
+	'https://api.lolhuman.xyz': '2add975f13e16d76f4472b1f'
 }
 
 global.multiplier = 69 // The higher, The harder levelup
